@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-CarservicemanagementApplication<carservicemanagement>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "net.csv.carservicemanagement.CarservicemanagementApplication",
+			"projectName": "carservicemanagement",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
